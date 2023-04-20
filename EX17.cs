@@ -1,4 +1,5 @@
-//17) Faça uma implementação que construa uma lista encadeada. Seu programa deve ter as opções de inserção e remoção dos elementos. Após remover um elemento da lista, exiba-o na tela.﻿
+//17) Faça uma implementação que construa uma lista encadeada. Seu programa deve ter as opções de inserção e remoção dos elementos. 
+//Após remover um elemento da lista, exiba-o na tela.﻿
 
 void Insere(ref tp_no l)
 {
