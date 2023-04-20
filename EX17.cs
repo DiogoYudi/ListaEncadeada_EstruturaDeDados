@@ -1,4 +1,6 @@
-﻿void Insere(ref tp_no l)
+//17) Faça uma implementação que construa uma lista encadeada. Seu programa deve ter as opções de inserção e remoção dos elementos. Após remover um elemento da lista, exiba-o na tela.﻿
+
+void Insere(ref tp_no l)
 {
     Console.Write("Informe o número a ser inserido: ");
     int n = Convert.ToInt32(Console.ReadLine());
